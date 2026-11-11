@@ -29,7 +29,7 @@ tags:
   - Offensive Language Detection
   - System Demo
 links:
-  - icon: custom
-    name: ACL Anthology
+  - icon: hero/globe-alt
     url: https://aclanthology.org/2021.emnlp-demo.9/
+    label: ACL Anthology
 ---

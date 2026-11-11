@@ -15,7 +15,7 @@ tags:
   - Vision-Language
   - Zero-shot
 links:
-  - icon: custom
-    name: arXiv
+  - icon: hero/globe-alt
     url: https://arxiv.org/abs/2603.05040
+    label: arXiv
 ---

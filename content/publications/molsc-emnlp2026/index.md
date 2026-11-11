@@ -16,7 +16,7 @@ tags:
   - LLM
   - Chemistry
 links:
-  - icon: custom
-    name: ACL Anthology
+  - icon: hero/globe-alt
     url: https://aclanthology.org/2026.emnlp-main.2163/
+    label: ACL Anthology
 ---

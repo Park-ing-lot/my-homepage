@@ -17,7 +17,7 @@ tags:
   - Representation Learning
   - Molecular Property Prediction
 links:
-  - icon: custom
-    name: ACL Anthology
+  - icon: hero/globe-alt
     url: https://aclanthology.org/2024.emnlp-main.788/
+    label: ACL Anthology
 ---

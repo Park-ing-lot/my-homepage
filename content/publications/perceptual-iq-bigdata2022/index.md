@@ -15,7 +15,7 @@ tags:
   - Visual Commonsense Reasoning
   - Benchmark
 links:
-  - icon: custom
-    name: IEEE
+  - icon: hero/globe-alt
     url: https://ieeexplore.ieee.org/abstract/document/10020633
+    label: IEEE
 ---

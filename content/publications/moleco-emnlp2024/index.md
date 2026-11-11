@@ -23,7 +23,7 @@ tags:
   - Contrastive Learning
   - Molecular Property Prediction
 links:
-  - icon: custom
-    name: ACL Anthology
+  - icon: hero/globe-alt
     url: https://aclanthology.org/2024.emnlp-industry.30/
+    label: ACL Anthology
 ---

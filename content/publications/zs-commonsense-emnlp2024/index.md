@@ -21,7 +21,7 @@ tags:
   - Zero-shot
   - Vision-Language
 links:
-  - icon: custom
-    name: ACL Anthology
+  - icon: hero/globe-alt
     url: https://aclanthology.org/2024.findings-emnlp.669/
+    label: ACL Anthology
 ---
