@@ -19,6 +19,7 @@ tags:
   - Multi-modal
   - Alignment
 links:
-  - name: ACL Anthology
+  - icon: custom
+    name: ACL Anthology
     url: https://aclanthology.org/2025.emnlp-main.1197/
 ---

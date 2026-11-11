@@ -22,6 +22,7 @@ tags:
   - Visual Commonsense Reasoning
   - Vision-Language
 links:
-  - name: ACL Anthology
+  - icon: custom
+    name: ACL Anthology
     url: https://aclanthology.org/2023.emnlp-main.601/
 ---

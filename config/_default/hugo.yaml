@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: 'Hyuntae Park'
 # Website URL
-baseURL: 'https://park-ing-lot.github.io/my-homepage/'
+baseURL: 'https://hyuntae-park.netlify.app/'
 
 ############################
 ## LANGUAGE
