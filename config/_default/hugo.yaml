@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
+title: 'Hyuntae Park'
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://hyuntae-park.netlify.app/'
 
 ############################
 ## LANGUAGE
@@ -61,5 +61,13 @@ markup:
     lineNos: false
 security:
   _merge: deep
+  exec:
+    allow:
+      - ^dart-sass-embedded$
+      - ^go$
+      - ^node$
+      - ^npx$
+      - ^postcss$
+      - ^tailwindcss$
 sitemap:
   _merge: deep
